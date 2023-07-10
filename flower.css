@@ -1,0 +1,46 @@
+.b-bg{
+    background:  rgba(229, 84, 115, 0.10);;
+}
+.banner-text{
+    background-image: url(image/pngwing\ 10.png);
+    height: 100vh;
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+
+}
+.caption{
+    text-align: center;
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: normal;
+    height: 288px;
+    width: 700px;
+    
+}
+.banner-pera{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 634px;
+height: 90px;
+padding-left: 60px;
+margin: 10px;
+padding-top: 10px;
+
+}
+.button{
+    padding: 15px 35px;
+    text-align: center;
+    color: white;
+    background: #E55473;
+    
+}
+.b-style{
+    padding-left: 63px;
+    padding-top: 25px;
+}
