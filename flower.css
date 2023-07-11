@@ -7,6 +7,8 @@
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
+    flex-direction: column;
+    
     
 
 }
@@ -19,6 +21,7 @@
     height: 288px;
     width: 700px;
     
+    
 }
 .banner-pera{
     color: rgba(39, 39, 39, 0.60);
@@ -26,11 +29,10 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
-width: 634px;
-height: 90px;
-padding-left: 60px;
-margin: 10px;
-padding-top: 10px;
+padding-left: 63px;
+flex-direction: column;
+
+
 
 }
 .button{
@@ -39,8 +41,149 @@ padding-top: 10px;
     color: white;
     background: #E55473;
     
+    
 }
 .b-style{
     padding-left: 63px;
     padding-top: 25px;
 }
+.main-er-border{
+    
+    margin-top: 100px;
+}
+.main-c{
+    text-align: center;
+    font-size: 40px;
+font-weight: 800
+}
+.main-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.image{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 350px;
+    
+    
+    
+
+}
+.img-6{
+    width:150px;
+    height:150px ;
+    padding-top: 80px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    
+    
+    
+
+}
+.img-5{
+    width: 150px;
+    height: 150px;
+    padding-top: 80px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+.img-7{
+    width: 150px;
+    height: 150px;
+    padding-top: 80px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+.back-img6{
+     width: 150px;
+    height: 150px;
+    padding-top: 80px;
+
+}
+.main-er-2nd-border{
+    border: 0px solid black;
+    width: auto;
+    height: 300px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    
+
+}
+.sale-caption{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding: 30px 30px;
+text-align: center;
+}
+.sale-pera{
+    color: rgba(39, 39, 39, 0.60);
+text-align:left;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding: 08px 30px;
+text-align: center;
+
+
+}
+.button-style{
+    text-align: center;
+    padding: 05px 05px;
+}
+.sale-button{
+    color: white;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 8px;
+background: #E55473;
+text-align: center;
+
+
+}
+.rose{
+    height: 200px;
+    width: 200px;
+    text-align: right;
+    display: flex;
+    
+    
+}
+.rose8{
+  padding: 60px 60px 80px 380px;
+  
+   
+}
+
+.head{
+    display: flex;
+}
+.off{
+    text-align: center;
+}
+.rose8{
+    width: 100px;
+    height: 100px;
+}
+
+
+    
+
+    
+   
