@@ -181,6 +181,108 @@ text-align: center;
     width: 100px;
     height: 100px;
 }
+.socal{
+   
+    text-align: center;
+    padding: 100px 0px;
+
+    
+}
+.socal-box{
+    border: 0px solid;
+    height: 230px;
+    width: auto;
+}
+.Rectangle-image{
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+.rectangle-1{
+ display: flex;
+ justify-content: space-between;
+ height: 150px;
+ width: 150px;
+ text-align: center;
+ padding-left: 350px;
+ gap: 15px;
+    
+}
+.rectangle-9{
+    border: 0px solid black;
+    height: 20px;
+    width: auto;
+}
+.img-9{
+    padding-top: 60px;
+}
+.r-9-c{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 30px;
+
+}
+.r-9-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.Rectangle-9{
+    background-image: url(image/Rectangle\ 9.png);
+    
+    height:100vh;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: auto;
+    
+    
+}
+.pad{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+}
+.rectangle-button{
+    padding-right: 20px;
+    margin: 10px 10px;
+}
+.email{
+    text-align: center;
+}
+.subsc{
+    color:white;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+background-color: rgb(244, 56, 56);
+
+}
+.footer-c-p{
+    text-align: center;
+    background-color:black;
+    color: white;
+    height: 300px;
+    width: auto;
+    padding-top: 128px;
+}
+.one-word-color{
+    color: #E55473;
+
+}
+}
+
 
 
     
